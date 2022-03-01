@@ -1,4 +1,4 @@
-# Java-Password-Generator
+# Javascript-Password-Generator
 
 ## Description
 Creating a auto generating password for web users
